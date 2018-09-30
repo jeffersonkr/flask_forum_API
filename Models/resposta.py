@@ -1,0 +1,1 @@
+Resposta = {"Status": "", "Dados": "", "Mensagem": ""}
